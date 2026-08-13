@@ -12,23 +12,46 @@ Réalisé au sein de **ISPM — Madagascar** ([www.ispm-edu.com](https://www.isp
 
 #### Membre 1
 
-- nom :
-- prénom(s) :
-- classe :
-- numéro :
-- rôle : *(développeur, analyste, responsable de la modélisation, présentateur, etc.)*
+- Nom : RAKOTOARIVELO 
+- Prénom(s) : Anjaratiana Mendrika 
+- Classe : IMTICIA 4
+- Numéro : 25
+- Rôle : Ingénieur données, nettoyage et prétraitement
 
 #### Membre 2
 
-- nom :
-- prénom(s) :
-- classe :
-- numéro :
-- rôle :
+- Nom : RABEHARISAINA 
+- Prénoms : Mamy Fanojo
+- Classe : IMTICIA 4  
+- Numéro : 22  
+- Rôle : Ingénieur machine learning, entraînement des modèles
 
-*(Ajoutez les autres membres selon la composition réelle de l'équipe.)*
+#### Membre 3
 
----
+- Nom    : RANDRIAMORASATA  
+- Prénom : Ezra 
+- Classe : IMTICIA 4
+- numéro : 8  
+- Rôles  : Analyste évaluation & validation
+
+  #### Membre 4
+
+- Nom    : RALISAONA  
+- Prénom : Solonirina Fanomezana 
+- Classe : IMTICIA 4
+- numéro : 21  
+- Rôles  : Documentation, préparation de la vidéo de présentation
+
+#### Membre 5
+
+- Nom    : ANDRIAMALALA RANJA
+- Prénom : Ken Andi
+- Classe : IMTICIA 4
+- numéro : 13
+- Rôles  : Chef de projet, coordination générale et intégration des livrables
+
+
+
 
 ### **2. Résumé du Travail**
 
