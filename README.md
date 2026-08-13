@@ -8,7 +8,6 @@
 
 ### **1. Informations sur le Groupe**
 
-> À compléter par l'équipe.
 
 #### Membre 1
 
