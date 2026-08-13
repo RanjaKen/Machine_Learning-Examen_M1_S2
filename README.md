@@ -2,7 +2,7 @@
 
 ## **Examen Final Machine Learning & Data Science — M1**
 
-Réalisé au sein de **ISPM — Madagascar** ([www.ispm-edu.com](https://www.ispm-edu.com))
+ **ISPM — Madagascar** ([www.ispm-edu.com](https://www.ispm-edu.com))
 
 ---
 
