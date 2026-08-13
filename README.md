@@ -100,8 +100,8 @@ régression logistique · optimisation du seuil · déséquilibre de classes
 
 **🔗 Liens utiles :**
 
-- [**LIEN VERS LA VIDÉO DE PRÉSENTATION**](https://www.youtube.com/) *(à compléter)*
-- [Lien vers le dépôt GitHub](https://github.com/) *(à compléter)*
+- [**LIEN VERS LA VIDÉO DE PRÉSENTATION**](https://www.youtube.com/) https://youtu.be/1Jgq3TBoZf0
+
 
 ---
 
